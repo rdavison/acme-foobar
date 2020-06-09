@@ -1,0 +1,3 @@
+(library
+  (name acme_foobar)
+  (public_name acme-foobar))

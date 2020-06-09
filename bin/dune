@@ -1,0 +1,6 @@
+(executable
+  (name main)
+  (public_name acme-foobar)
+  (package acme-foobar)
+  (libraries acme-foobar)
+  (modules main))

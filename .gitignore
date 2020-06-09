@@ -1,0 +1,7 @@
+/_build
+/_esy
+/.merlin
+.DS_Store
+*~
+*.swp
+/tmp
